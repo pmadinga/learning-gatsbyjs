@@ -19,6 +19,7 @@ module.exports = {
   siteMetadata: {
     title: 'webfolio',
     description: 'web developer portfolio',
-    copyright: 'This website is free'
+    copyright: 'This website is free',
+    contact: 'phiwa@web.com'
   }
 }
