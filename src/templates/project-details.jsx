@@ -9,10 +9,10 @@ const ProjectDetails = () => {
             <div className={styles.details}>
                 <h2>title</h2>
                 <h3>stack</h3>
-                <div className="">
-                    <Img fluid={}/>
+                <div className={styles.featured}>
+                    {/* <Img fluid={}/> */}
                 </div>
-                <div dangerouslySetInnerHTML={}/>
+                {/* <div className={styles.html} dangerouslySetInnerHTML={}/> */}
             </div>
         </Layout>
     );
